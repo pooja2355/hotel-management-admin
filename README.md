@@ -1,5 +1,5 @@
 # Preview 
-https://hotel-management-admin-blue.vercel.app/ 
+To preview the project [click here](https://hotel-management-admin-blue.vercel.app/) 
 
 ## Getting Started with Create React App
 
